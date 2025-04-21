@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    margin: 40px;
+  }
+  input, textarea {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 300px;
+  }
+  button {
+    padding: 8px 16px;
+  }
+  ul {
+    margin-top: 20px;
+  }
+  
